@@ -1,0 +1,61 @@
+{
+  "name": "Royal Challengers Bangalore",
+  "location": "Bangalore",
+  "player": [
+    {
+      "name": "Faf Du Plessis",
+      "country": "South Africa",
+      "role": "Batsman"
+    },
+    {
+      "name": "Virat Kohli",
+      "country": "India",
+      "role": "Batsman"
+    },
+    {
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "role": "Batsman"
+    },
+    {
+      "name": "Mohammad Siraj",
+      "country": "India",
+      "role": "Bowler"
+    },
+    {
+      "name": "Harshal Patel",
+      "country": "India",
+      "role": "Bowler"
+    },
+    {
+      "name": "Wanindu Hasaranga",
+      "country": "Srilanka",
+      "role": "Bowler"
+    },
+    {
+      "name": "Dinesh Karthik",
+      "country": "India",
+      "role": "Wicket-keeper"
+    },
+    {
+      "name": "Shahbaz Ahmed",
+      "country": "India",
+      "role": "All-Rounder"
+    },
+    {
+      "name": "Rajat Patidar",
+      "country": "India",
+      "role": "Batsman"
+    },
+    {
+      "name": "Josh Hazlewood",
+      "country": "Australia",
+      "role": "Bowler"
+    },
+    {
+      "name": "Mahipal Lomror",
+      "country": "India",
+      "role": "Bowler"
+    }
+  ]
+}
